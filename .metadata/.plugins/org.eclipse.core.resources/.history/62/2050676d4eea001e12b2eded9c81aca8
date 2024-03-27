@@ -1,0 +1,13 @@
+package main;
+
+public class Ex2 {
+	
+	/*
+	 * 변수 초기화하기
+	 * */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

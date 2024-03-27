@@ -1,0 +1,16 @@
+package quiz;
+
+public class Quiz7 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		double d = 1.2;
+		float f = 0.9;
+		
+		int i = (int)d;
+		int i2 = (int)f;
+		int i3 = (int) f + (int) f;
+		int i4 = (int) (d+f);
+	}
+
+}

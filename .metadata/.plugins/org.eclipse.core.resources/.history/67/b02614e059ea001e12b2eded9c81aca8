@@ -1,0 +1,12 @@
+package main;
+
+public class Ex4 {
+
+	
+//	정수 자료형
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

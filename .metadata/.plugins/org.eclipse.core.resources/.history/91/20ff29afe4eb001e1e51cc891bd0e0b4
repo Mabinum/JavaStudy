@@ -1,0 +1,12 @@
+package Quiz;
+
+public class Quiz9 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		int a = (5 > 3) ? '1': '2';
+		System.out.println(a);
+	}
+
+}

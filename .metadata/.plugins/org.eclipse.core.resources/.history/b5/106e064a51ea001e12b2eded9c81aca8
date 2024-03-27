@@ -1,0 +1,14 @@
+package quiz;
+
+	public Quiz1() {
+		// TODO Auto-generated constructor stub
+		int x = 1; 
+		
+		x = 5;
+		
+		int y = 3;
+		y = 6;
+		sysout
+	}
+
+
