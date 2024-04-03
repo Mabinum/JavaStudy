@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="instance.Student"/>
     <fullyQualifiedTypeName name="instance.Quiz2.Order"/>
     <fullyQualifiedTypeName name="instance.car"/>
+    <fullyQualifiedTypeName name="javax.security.auth.Subject"/>
+    <fullyQualifiedTypeName name="instance.Student"/>
+    <fullyQualifiedTypeName name="reference.Book"/>
+    <fullyQualifiedTypeName name="reference.Member"/>
+    <fullyQualifiedTypeName name="reference.Member2"/>
+    <fullyQualifiedTypeName name="reference.Department"/>
+    <fullyQualifiedTypeName name="reference.Employee"/>
+    <fullyQualifiedTypeName name="hiding.test1.A"/>
 </qualifiedTypeNameHistroy>

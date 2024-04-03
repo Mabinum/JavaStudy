@@ -1,5 +1,5 @@
-GitRepositoriesView.GitDirectories=C\:\\JoonEclipse\\java-workspace\\.git;
-GitRepositoriesView.GitDirectories.relative=.git;
+GitRepositoriesView.GitDirectories=C\:\\JoonEclipse\\java-workspace\\java-study11\\.git;C\:\\JoonEclipse\\java-workspace\\.git;
+GitRepositoriesView.GitDirectories.relative=java-study11\\.git;.git;
 core_defaultRepositoryDir=C\:\\JoonEclipse\\java-workspace
 core_ssh_default_agent=\\\\.\\pageant
 eclipse.preferences.version=1

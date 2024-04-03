@@ -7,14 +7,14 @@
 		<item value="&apos;Mabin&apos; &lt;&apos;mabinum9528@naver.com&apos;&gt;"/>
 	</list>
 	<list key="EGit.KnownHosts">
-		<item value="bitbucket.org"/>
 		<item value="git.eclipse.org"/>
+		<item value="bitbucket.org"/>
 		<item value="github.com"/>
 	</list>
 	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/imjiyeon/java-study.git"/>
 		<item value="https://github.com/Mabinum/project2.git"/>
 		<item value="https://github.com/Mabinum/Project1.git"/>
-		<item value="https://github.com/imjiyeon/java-study.git"/>
 		<item value="https://github.com/imjiyeon/java-study"/>
 	</list>
 	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
