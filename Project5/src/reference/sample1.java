@@ -45,7 +45,7 @@ class Department {
 	public void showDepartmentInfo() {
 		System.out.println("부서장의 정보는 : " + 부서장.이름);
 		System.out.println("수석연구원의 정보는 : " + 수석연구원.월급);
-		System.out.println("책임연구원의 정보는 : " + 책임연구원.);
+		System.out.println("책임연구원의 정보는 : " + 책임연구원.나이);
 		
 	}
 }
