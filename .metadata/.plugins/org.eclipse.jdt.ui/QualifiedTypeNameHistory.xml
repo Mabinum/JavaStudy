@@ -11,4 +11,5 @@
     <fullyQualifiedTypeName name="reference.Employee"/>
     <fullyQualifiedTypeName name="hiding.test1.A"/>
     <fullyQualifiedTypeName name="thisex.BirthDay"/>
+    <fullyQualifiedTypeName name="staticex.Calculator"/>
 </qualifiedTypeNameHistroy>
