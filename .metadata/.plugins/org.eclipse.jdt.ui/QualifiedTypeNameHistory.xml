@@ -12,4 +12,6 @@
     <fullyQualifiedTypeName name="hiding.test1.A"/>
     <fullyQualifiedTypeName name="thisex.BirthDay"/>
     <fullyQualifiedTypeName name="staticex.Calculator"/>
+    <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
 </qualifiedTypeNameHistroy>
