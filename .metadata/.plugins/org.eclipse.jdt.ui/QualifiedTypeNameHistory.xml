@@ -14,4 +14,13 @@
     <fullyQualifiedTypeName name="staticex.Calculator"/>
     <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="array.Student"/>
+    <fullyQualifiedTypeName name="arraylist.Book"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="arraylist.Student"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="arraylist.Student1"/>
+    <fullyQualifiedTypeName name="arraylist.Subject"/>
 </qualifiedTypeNameHistroy>
