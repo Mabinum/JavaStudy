@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
-    <fullyQualifiedTypeName name="java.util.Arrays"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
-    <fullyQualifiedTypeName name="array.Student"/>
-    <fullyQualifiedTypeName name="arraylist.Book"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
-    <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="arraylist.Student"/>
     <fullyQualifiedTypeName name="arraylist.Student1"/>
     <fullyQualifiedTypeName name="arraylist.Subject"/>
@@ -60,4 +53,11 @@
     <fullyQualifiedTypeName name="downcasting.학생"/>
     <fullyQualifiedTypeName name="downcasting.회사원"/>
     <fullyQualifiedTypeName name="downcasting.Person"/>
+    <fullyQualifiedTypeName name="main.calc"/>
+    <fullyQualifiedTypeName name="main.newcalculator"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="main.OraDB"/>
+    <fullyQualifiedTypeName name="main.PostDB"/>
+    <fullyQualifiedTypeName name="object.MyDate"/>
 </qualifiedTypeNameHistroy>
